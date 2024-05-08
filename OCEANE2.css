@@ -1,0 +1,36 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid black;
+    color: rgb(236, 240, 127);
+
+}
+img {
+    max-width: 100px;
+    max-height: 100px;
+}
+body{
+    background-image: url(img1\ \(20\).jpg);
+    
+}
+h1{
+    color: rgb(146, 240, 144);
+    text-align: center;
+}
+th{
+    color: rgb(146, 240, 144);
+}
+header{align-items: center ;
+    justify-content: space-between;}
+a{text-decoration: none;
+    text-align: right;
+    font-size: 20px;
+    background-color: rgb(175, 162, 62);
+    border-radius: 10%;
+
+}

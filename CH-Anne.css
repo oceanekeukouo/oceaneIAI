@@ -1,0 +1,38 @@
+body{
+    background-image: url(img1\ \(14\).jpg);
+ 
+
+    background-attachment: fixed;
+}
+.field{
+    width: 400px;
+    border-radius: 25px;
+    background: linear-gradient(180deg, rgb(227, 136, 204), rgb(215, 58, 176));
+}
+legend{
+    text-align: center;
+    font-size: 20PX;
+    font-weight: bolder;
+    color: white;
+    
+}
+.input{
+    width: 350px;
+    height: 30px;
+}
+#details{
+    text-align: center;
+}
+.container{
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    margin-top: 80PX;
+    
+}
+.submit{
+    width: 90px;
+    height: 25px;
+    border-radius: 5px;
+    background: linear-gradient(90deg, rgb(81, 255, 0), rgb(22, 138, 181));
+}
